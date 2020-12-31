@@ -23,4 +23,4 @@
 >`` git clone https://github.com/Riyadulmollick/MacOS-Dynamicwallpaper-KDE.git ``
 
 **Every Wallpaper is specific heic format for [Dynamic Wallpaper Engine KDE Plasma](https://github.com/zzag/plasma5-wallpapers-dynamic) and tested on Manjaro KDE Plasma(Plasma Version: 5.20.4 )**
-**To request any other wallpaper _[mail me](mailto:riyadul2000@yahoo.com)_** 
+**To request any other wallpaper _[Mail to me](mailto:riyadul2000@yahoo.com?subject=[GitHub]%20Source%20Han%20Sans)_** 
